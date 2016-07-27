@@ -1,3 +1,3 @@
 Hello World!
-Git is very useful.It is free.
-Let's explore it.
+Git is very useful.It is a free software.
+Come on,Let's explore it!
